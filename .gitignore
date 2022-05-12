@@ -1,0 +1,7 @@
+.env
+
+packages/db
+node_modules
+packages/backend
+
+yarn.lock

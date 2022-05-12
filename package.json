@@ -1,0 +1,16 @@
+{
+  "name": "moviemagic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "docker-compose up -d && docker-compose logs -f"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
