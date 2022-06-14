@@ -4,6 +4,4 @@ node_modules
 
 yarn.lock
 
-packages/db
-packages/backend
-packages/frontend
+packages/
