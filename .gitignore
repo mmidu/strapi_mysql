@@ -1,7 +1,9 @@
 .env
 
-packages/db
 node_modules
-packages/backend
 
 yarn.lock
+
+packages/db
+packages/backend
+packages/frontend
